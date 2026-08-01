@@ -1,4 +1,4 @@
-import { Facebook, Instagram, Linkedin, Twitter } from "lucide-react";
+import {Instagram} from "lucide-react";
 
 const socials = [
 
